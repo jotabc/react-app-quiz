@@ -1,0 +1,12 @@
+*, *::after, *::before {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #202b38;
+  color: #fff;
+}
+
+ul {
+  list-style: none;
+}
